@@ -31,3 +31,4 @@ Exploring the dichotomy between Fundamental and Technical Analysis, evaluating k
 Backtesting:
 
 Conducting rigorous backtesting using RSI and Moving Average Crossover strategies across hourly, daily, and weekly data to assess performance and refine trading algorithms.
+![image](https://github.com/Vanshita2611/FINMACO/assets/84024713/a2823ab7-0bda-4770-9933-d77dc05c3a96)
