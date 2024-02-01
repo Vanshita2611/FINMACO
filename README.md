@@ -18,6 +18,8 @@ insights:
 • Practical insights for investors, emphasizing risk management.
 • Communication: Transparently communicate findings with data visualizations.
 • Outcome: Actionable insights and predictions for informed decision-making
+![image](https://github.com/Vanshita2611/FINMACO/assets/84024713/70ede411-6034-4cd9-90ff-2aea26b57c55)
+
 
 Optimizing Portfolio:
 
