@@ -20,15 +20,3 @@ insights:
 • Outcome: Actionable insights and predictions for informed decision-making
 ![image](https://github.com/Vanshita2611/FINMACO/assets/84024713/70ede411-6034-4cd9-90ff-2aea26b57c55)
 
-
-Optimizing Portfolio:
-
-Applying Markowitz Mean-Variance Optimization and Black-Litterman Allocation models, incorporating prior beliefs, views, and confidences for strategic asset allocation.
-Fundamental vs. Technical Analysis:
-
-Exploring the dichotomy between Fundamental and Technical Analysis, evaluating key indicators such as Moving Averages, Bollinger Bands, RSI, EPS, P/E ratio, ROE, Debt-to-Equity ratio, and Dividend Yield.
-
-Backtesting:
-
-Conducting rigorous backtesting using RSI and Moving Average Crossover strategies across hourly, daily, and weekly data to assess performance and refine trading algorithms.
-![image](https://github.com/Vanshita2611/FINMACO/assets/84024713/a2823ab7-0bda-4770-9933-d77dc05c3a96)
